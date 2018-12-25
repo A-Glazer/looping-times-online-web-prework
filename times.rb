@@ -1,4 +1,4 @@
-using_times = "Wingardium Leviosa"
+
 
 def using_times
 	7.times do
@@ -6,6 +6,6 @@ def using_times
 end
 end
 
-using_times
+
 
 
